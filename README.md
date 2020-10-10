@@ -4,6 +4,6 @@
 This is a very simple e-commerce website built with Django.
 
 ## Quick demo
-(https://www.youtube.com/watch?v=LVLK93Ld07Y&feature=youtu.be)
+(https://www.youtu.be/LVLK93Ld07Y)
 
 ---
